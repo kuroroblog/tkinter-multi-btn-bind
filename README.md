@@ -12,3 +12,4 @@ Tkinterの複数のButton Widgetに対して、bind関数を利用する。
 8. `$ python main.py`を実行する。
 
 # 実行結果
+<img width="1680" alt="screenshot 2021-10-16 18 34 27" src="https://user-images.githubusercontent.com/23373288/137582631-7bcd1f80-92d8-4498-ba7c-08822b47822a.png">

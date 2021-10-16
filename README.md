@@ -2,7 +2,7 @@
 Tkinterの複数のButton Widgetに対して、bind関数を利用する。
 
 # zipをダウンロードしてから動作確認する
-1. https://github.com/kuroroblog/tkinter-multi-btn-bin へアクセスする。
+1. https://github.com/kuroroblog/tkinter-multi-btn-bind へアクセスする。
 2. 緑色の「Code」と書かれたボタンを選択
 3. 「Download ZIP」を選択
 4. ダウンロードされたzipファイルをデスクトップへ移動

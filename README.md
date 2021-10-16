@@ -1,5 +1,5 @@
 # tkinter-multi-btn-bind
-複数のボタンに関してbind関数を利用する。
+Tkinterの複数のButton Widgetに対して、bind関数を利用する。
 
 # zipをダウンロードしてから動作確認する
 1. https://github.com/kuroroblog/tkinter-multi-btn-bin へアクセスする。
